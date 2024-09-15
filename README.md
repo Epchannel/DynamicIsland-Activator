@@ -1,7 +1,7 @@
 # 📱 Hướng Dẫn Kích Hoạt Dynamic Island
 
 ## 🗒️ Giới Thiệu
-Hướng dẫn này sẽ giúp bạn kích hoạt Dynamic Island trên iPhone của bạn và sửa mọi lỗi có thể gặp phải. Xin cảm ơn <@1254383701081722987> vì một số bản sửa lỗi! Nếu có bất kỳ lỗi nào xảy ra hoặc bạn gặp vấn đề, hãy liên hệ với chúng tôi để được hỗ trợ.
+Hướng dẫn này sẽ giúp bạn kích hoạt Dynamic Island trên iPhone của bạn.
 
 ## ✅ Yêu Cầu
 Hướng dẫn này chỉ được xác minh cho iOS 17.0-18.0 RC (bao gồm tất cả các bản beta của iOS 18.0) và yêu cầu phần mềm **Nugget**. 
